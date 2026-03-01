@@ -10,9 +10,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/g4s8/envdoc/ast"
-	"github.com/g4s8/envdoc/render"
-	"github.com/g4s8/envdoc/types"
+	"github.com/kda47/envdoc/ast"
+	"github.com/kda47/envdoc/render"
+	"github.com/kda47/envdoc/types"
 	"golang.org/x/tools/txtar"
 )
 

@@ -5,9 +5,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/g4s8/envdoc/ast"
-	"github.com/g4s8/envdoc/debug"
-	"github.com/g4s8/envdoc/types"
+	"github.com/kda47/envdoc/ast"
+	"github.com/kda47/envdoc/debug"
+	"github.com/kda47/envdoc/types"
 )
 
 type Resolver interface {

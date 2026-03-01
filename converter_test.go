@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/g4s8/envdoc/ast"
-	"github.com/g4s8/envdoc/resolver"
-	"github.com/g4s8/envdoc/types"
+	"github.com/kda47/envdoc/ast"
+	"github.com/kda47/envdoc/resolver"
+	"github.com/kda47/envdoc/types"
 )
 
 var opts = ConverterOpts{

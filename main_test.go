@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/g4s8/envdoc/debug"
+	"github.com/kda47/envdoc/debug"
 )
 
 type testConfig struct {

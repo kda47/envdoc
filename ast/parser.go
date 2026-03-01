@@ -7,7 +7,7 @@ import (
 	"io/fs"
 	"path/filepath"
 
-	"github.com/g4s8/envdoc/utils"
+	"github.com/kda47/envdoc/utils"
 )
 
 type ParserConfigOption func(*Parser)
