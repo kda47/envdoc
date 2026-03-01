@@ -10,7 +10,7 @@ For `docenv` linter see [docenv/README.md](./docenv/README.md).
 
 [![CI](https://github.com/kda47/envdoc/actions/workflows/go.yml/badge.svg)](https://github.com/kda47/envdoc/actions/workflows/go.yml)
 [![Go Reference](https://pkg.go.dev/badge/github.com/kda47/envdoc.svg)](https://pkg.go.dev/github.com/kda47/envdoc)
-[![codecov](https://codecov.io/gh/g4s8/envdoc/graph/badge.svg?token=sqXWNR755O)](https://codecov.io/gh/g4s8/envdoc)
+[![codecov](https://codecov.io/gh/kda47/envdoc/graph/badge.svg?token=sqXWNR755O)](https://codecov.io/gh/kda47/envdoc)
 [![Go Report Card](https://goreportcard.com/badge/github.com/kda47/envdoc)](https://goreportcard.com/report/github.com/kda47/envdoc)
 [![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)  
 

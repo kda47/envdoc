@@ -8,6 +8,6 @@ updates:
     labels:
       - "deps"
     assignees:
-      - "g4s8"
+      - "kda47"
     schedule:
       interval: "daily"
