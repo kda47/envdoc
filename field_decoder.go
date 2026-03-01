@@ -3,10 +3,10 @@ package main
 import (
 	"strings"
 
-	"github.com/g4s8/envdoc/ast"
-	"github.com/g4s8/envdoc/tags"
-	"github.com/g4s8/envdoc/types"
-	"github.com/g4s8/envdoc/utils"
+	"github.com/kda47/envdoc/ast"
+	"github.com/kda47/envdoc/tags"
+	"github.com/kda47/envdoc/types"
+	"github.com/kda47/envdoc/utils"
 )
 
 type FieldInfo struct {
